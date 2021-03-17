@@ -1,0 +1,54 @@
+.image{
+    height: 70%;
+    width: 30%;
+    position: absolute;
+    bottom: 0;
+    right: 160px;
+}
+big{
+    color: black;
+}
+h2{
+    color: black;
+}
+h3{
+    color:black;
+}
+.foot{
+    text-align: center;
+    background-color: cadetblue;
+    height:50px;
+    border: 0px solid white;
+    padding-bottom: 10px;
+    padding-top: 30px;
+}
+dl{
+    font-size: 15px;
+    font-weight: 100;
+    margin-left: 50px;
+    color: #232d60;   
+}
+
+.form{
+    text-align: center;
+    color: white;
+}
+.a{
+    color: white;
+}
+.h3{
+    color: black;
+}
+.tr1{
+    color: black;
+}
+.tr{
+    color: black;
+}
+.p{
+    text-align: center;
+}
+.table{
+    text-align: center;
+    color: white;
+}
